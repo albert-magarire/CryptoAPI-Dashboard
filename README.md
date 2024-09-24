@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-[![Watch the video](https://www.nicepng.com/png/full/22-225492_watch-video-button-animated.png)](https://imgur.com/gallery/Ck294vh)
+[![Watch the video](https://www.nicepng.com/png/full/22-225492_watch-video-button-animated.png)](https://imgur.com/gallery/Ck294vh) - please note that the video link might have expired
 
 
 <!-- Replace this with whatever GIF tool you used! -->
