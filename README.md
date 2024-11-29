@@ -4,7 +4,7 @@ Submitted by: **Betserai Albert Magarire**
 
 This web app: **A react app that fetches data from coingecko api and displays it with extra features**
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
