@@ -1,6 +1,6 @@
 # Web Development Project 5 - *Cryptocurrency Dashboard*
 
-Submitted by: **Betserai Albert Magarire**
+Submitted by: **Albert Magarire**
 
 This web app: **A react app that fetches data from coingecko api and displays it with extra features**
 
