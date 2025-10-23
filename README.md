@@ -1,10 +1,10 @@
-# Web Development Project 6 - *Cryptocurrency Dashboard*
+# CodePath Web Dev Project 6 - *Cryptocurrency Dashboard*
 
-Submitted by: **Betserai Albert Magarire**
+Submitted by: **Albert Magarire**
 
 This web app: **A react app that fetches data from *coingecko api* and displays it with extra features**
 
-Time spent: **7** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2024] [Betserai Albert Magarire]
+    Copyright [2025] [Betserai Albert Magarire]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
